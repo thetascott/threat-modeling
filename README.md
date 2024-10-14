@@ -1,5 +1,5 @@
 # Threat Model Using OWASP Threat Dragon
-## Threat Model
+### Threat Model
 <img width="1282" alt="Screenshot 2024-10-13 at 10 23 21 PM" src="https://github.com/user-attachments/assets/2a75d5ec-cb91-4279-a4a3-ea9c65ed6749">
 
 ## Browser Threat
