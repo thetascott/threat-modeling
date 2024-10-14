@@ -1,4 +1,4 @@
-# Threat Model Using OWASP Threat Dragon
+# Threat Model Created Using OWASP Threat Dragon
 
 ### Threat Model
 A model of an AngularJS web application, RestFulAPI and a mobile app. 
